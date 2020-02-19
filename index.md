@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+The remote jobs that i am interested in:
 
-You can use the [editor on GitHub](https://github.com/prudhviraj77-7/prudhviraj4.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/prudhviraj77-7/prudhviraj4.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1)SENIOR Python/Django ENGINEER
+     At present python is one of the most popular high level languages.
+     The main things that i liked in python are it is dynamic, code can be read easily.
+     It is an object oriented programming.
+     It consists of many libraries.
+     And so many companies are recruiting the python programmers.
+     python can be used in many platforms(App devlopment,Web development,AI  etc)
+     
+     
+     
+2)MACHINE LEARNING ENGINEER-Natural language processing
+     It is a fifth gen technology in programming where the machines learn on their own.
+     It can be used to build AI,which is the most powerful thing we have ever seen.
+     It is used in many areas like detecting cancer,self-driving cars,many more health applications.
+     Also in creating artificial general intelligence.
+     It can be used to develop neural networks used in AI
+     
+     
+     
+3)SENIOR JavaScript Engineer(Full stack)
+     Java script is a dynamic and an object oriented programming high level language.
+     It can be used for both front end and back end development.
+     It is a client side scripting language and it is weakly typed.
+     It can be used for web development,games
+     By using node js we can create much more things.
+     
+     
+     
